@@ -1,1 +1,2 @@
 # JenkinsPlusAllure
+# JenkAllure2
